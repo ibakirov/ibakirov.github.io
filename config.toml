@@ -1,0 +1,30 @@
+baseURL = "https://ibakirov.github.io"
+languageCode = "en-us"
+title = "Ilyas Bakirov"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  author = "Ilyas Bakirov"
+  description = "Unix, BSD, Linux, Java, SOA, Spring, Micronaut, Microservices, Python, DevOps"
+  avatar = "https://avatars0.githubusercontent.com/u/7983476"
+  menu_item_separator = " |"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ibakirov"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ibakirov"
+  [[params.social]]
+    name = "email"
+    url = "mailto: rxylqmv79@relay.firefox.com"
+
